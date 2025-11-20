@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Polina 👋
 
-<!--
-**Polina-Guller/Polina-Guller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Automation Engineer | API & UI Testing Enthusiast
 
-Here are some ideas to get you started:
+📂 **Portfolio Projects:**
+- [Weather API Testing]( ) 🌤 – testing OpenWeatherMap API with Postman, environment variables, pre-request scripts and tests
+ 
+- (will more projects as you complete them)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills & Badges
+
+**Skills:**
+- Python, Robot Framework, Selenium  
+- Postman / API Testing  
+- Test Automation  
+- Git & GitHub  
+
+**Badges:**
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-brightgreen)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-orange)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-Accepted-blueviolet)
+
+---
+
+## 📫 Contact Me
+- Telegram: [@Poli_Guller](https://t.me/Poli_Guller)  
+- Email: thepolinaguller@gmail.com  
+- LinkedIn: [linkedin.com/in/polina-guller](https://www.linkedin.com/in/polina-guller/)
+
+---
+
+## About Me
+I’m passionate about QA Automation and love exploring APIs, automation frameworks, and testing best practices.  
+This GitHub profile showcases my practical projects and experiments.
