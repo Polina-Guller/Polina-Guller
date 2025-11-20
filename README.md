@@ -5,7 +5,7 @@ Junior QA Automation Engineer | API & UI Testing Enthusiast
 📂 **Portfolio Projects:**
 - [Weather API Testing]( ) 🌤 – testing OpenWeatherMap API with Postman, environment variables, pre-request scripts and tests
  
-- (will more projects as you complete them)
+- (will add more projects)
 
 ---
 
