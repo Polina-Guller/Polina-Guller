@@ -1,13 +1,11 @@
 # Hi, I'm Polina 👋
 
-Junior QA Automation Engineer | API & UI Testing Enthusiast
+Junior QA Automation Engineer | API Testing
 
-📂 **Portfolio Projects:**
-- [Weather API Testing]( ) 🌤 – testing OpenWeatherMap API with Postman, environment variables, pre-request scripts and tests
- 
-- (will add more projects)
+📂 **Portfolio Project:**
+- [Weather API Testing]( ) 🌤
+- Weather API Testing – API testing of weather services using Postman: functional checks, negative scenarios, schema validation, and pre-request scripts.
 
----
 
 ## 💻 Skills & Badges
 
