@@ -3,9 +3,9 @@
 Junior QA Automation Engineer | API Testing
 
 📂 **Portfolio Project:**
-- [Weather API Testing]( ) 🌤
-- Weather API Testing – API testing of weather services using Postman: functional checks, negative scenarios, schema validation, and pre-request scripts.
-
+- 🌤 [Weather API Testing (Postman)](https://github.com/Polina-Guller/weather-api-testing-postman)  
+  Automated API testing of weather services using Postman, including functional and negative scenarios,
+  schema validation, environment & collection variables, and pre-request scripts.
 
 ## 💻 Skills & Badges
 
