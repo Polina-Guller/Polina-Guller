@@ -1,4 +1,4 @@
-[![Header] (https://github.com/Polina-Guller/Polina-Guller/blob/main/assets/header.png)](https://www.linkedin.com/in/polina-guller/)
+[![Header](https://github.com/Polina-Guller/Polina-Guller/blob/main/assets/header.png)](https://www.linkedin.com/in/polina-guller/)
 
 ## About me
 Short description will go here.
